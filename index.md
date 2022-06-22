@@ -1,6 +1,6 @@
 # Enterprise IoT
 
-* [Einleitung](./0x00_einleitung.md)
+* [Einleitung](./index.md)
 * Gruppenarbeiten  
     * [Digitalisiserung](./0x01_digitalisierung.md)
     * [Referenzarchitekturen](./0x02_referenzarchitekturen.md)
