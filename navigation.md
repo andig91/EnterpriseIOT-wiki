@@ -32,7 +32,7 @@
   * [Industrial IoT - advanced](./0x05_iiot_advanced.md)
   * [Industrial Cyber Security](./0x06_industrial_cyber_security.md)  
 [Einzelarbeiten]()
-  * Einzelarbeiten
+  * # Einzelarbeiten
   * [Automatisierte CAM Programmierung](./Einzelarbeiten/CAM-Programmierung/Automatisierte_CAM-Programmierung.md)  
   * [Digitalisierung in der öffentlichen Verwaltung](./Einzelarbeiten/Digitalisierung in der Öffentlichen Verwaltung/digitalisierung_in_der_oeffentlichen_verwaltung_se211309.md)  
   * [Digitalisierung in Gebäuden](./Einzelarbeiten/Digitalisierung in Gebäuden/Digitalisierung_in_Gebäuden.md)  
