@@ -1,19 +1,14 @@
 # Enterprise IoT
 
 [Einleitung](./index.md)
-[Gruppenarbeiten]()
-
-  * # Gruppenarbeiten
+Gruppenarbeiten
   * [Digitalisiserung](./0x01_digitalisierung.md)
   * [Referenzarchitekturen](./0x02_referenzarchitekturen.md)
   * [Informationssysteme](./0x03_informationssysteme.md)
   * [Industrial IoT](./0x04_iiot.md)
   * [Industrial IoT - advanced](./0x05_iiot_advanced.md)
   * [Industrial Cyber Security](./0x06_industrial_cyber_security.md)
-  
-[Einzelarbeiten]()
-
-  * # Einzelarbeiten
+Einzelarbeiten
   * [Automatisierte CAM Programmierung](./Einzelarbeiten/CAM-Programmierung/Automatisierte_CAM-Programmierung.md)
   * [Digitalisierung in der öffentlichen Verwaltung](./Einzelarbeiten/Digitalisierung_in_der_oeffentlichen_Verwaltung/digitalisierung_in_der_oeffentlichen_verwaltung_se211309.md)
   * [Digitalisierung in Gebäuden](./Einzelarbeiten/Digitalisierung_in_Gebaeuden/Digitalisierung_in_Gebaeuden.md)
